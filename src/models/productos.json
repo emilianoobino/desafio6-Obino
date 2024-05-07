@@ -1,0 +1,122 @@
+[
+    {
+      
+      "title": "funko 1",
+      "description": "spiderman",
+      "img": "sin imagen",
+      "price": 1500,
+      "thumbnail": "thumbnail1.jpg",
+      "code": "abc123",
+      "stock": 50,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 2",
+      "description": "iron man",
+      "img": "sin imagen",
+      "price": 1700,
+      "thumbnail": "thumbnail2.jpg",
+      "code": "abc124",
+      "stock": 80,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 3",
+      "description": "thanos",
+      "img": "sin imagen",
+      "price": 2000,
+      "thumbnail": "thumbnail3.jpg",
+      "code": "abc125",
+      "stock": 45,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 4",
+      "description": "depredador",
+      "img":"sin imagen",
+      "price": 2100,
+      "thumbnail": "thumbnail4.jpg",
+      "code": "abc126",
+      "stock": 30,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 5",
+      "description": "harry potter",
+      "img":"sin imagen",
+      "price": 3100,
+      "thumbnail": "thumbnail5.jpg",
+      "code": "abc127",
+      "stock": 20,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 6",
+      "description": "it",
+      "img":"sin imagen",
+      "price": 2300,
+      "thumbnail": "thumbnail6.jpg",
+      "code": "abc128",
+      "stock": 15,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 7",
+      "description": "batman",
+      "img":"sin imagen",
+      "price": 2150,
+      "thumbnail": "thumbnail7.jpg",
+      "code": "abc129",
+      "stock": 55,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 8",
+      "description": "superman",
+      "img":"sin imagen",
+      "price": 2350,
+      "thumbnail": "thumbnail8.jpg",
+      "code": "abc130",
+      "stock": 90,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 9",
+      "description": "mujer maravilla",
+      "img":"sin imagen",
+      "price": 2400,
+      "thumbnail": "thumbnail9.jpg",
+      "code": "abc131",
+      "stock": 70,
+      "category": "jueguete",
+      "status": true
+    },
+    {
+      
+      "title": "funko 10",
+      "description": "flash",
+      "img":"sin imagen",
+      "price": 1100,
+      "thumbnail": "thumbnail10.jpg",
+      "code": "abc132",
+      "stock": 56,
+      "category": "jueguete",
+      "status": true
+    }
+  ]

@@ -1,0 +1,38 @@
+h1 {
+    color:red; 
+    text-align: center;
+}
+
+.contenedorCards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    margin: 10px;
+    padding: 10px;
+    min-width: 200px;
+}
+/* Estilos para la caja de chat */
+#chatBox {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid red;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+/* Estilos para el registro de mensajes */
+#messagesLogs {
+    max-height: 300px; 
+    overflow-y: auto; 
+    border: 1px solid red;
+    padding: 10px;
+    border-radius: 5px;
+    background-color: whitesmoke;
+}
